@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\bin\Debug\LittleCat.exe
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\bin\Debug\LittleCat.pdb
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\obj\x86\Debug\LittleCat.LittleCat.resources
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\obj\x86\Debug\LittleCat.Properties.Resources.resources
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\obj\x86\Debug\LittleCat.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\obj\x86\Debug\LittleCat.exe
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\obj\x86\Debug\LittleCat.pdb
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\obj\x86\Debug\LittleCat.AboutMe.resources
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\bin\Debug\Interop.IWshRuntimeLibrary.dll
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+\\mac\home\documents\visual studio 2010\Projects\LittleCat\LittleCat\obj\x86\Debug\LittleCat.csproj.ResolveComReference.cache
